@@ -11,7 +11,9 @@ sudo pip install networkx
 Try with ./run.sh in the root directory
 
 If you want to try only one of the code, use:
+
 python ./src/tweets_cleaned.py ./tweet_input/tweets.txt ./tweet_output/ft1.txt
+
 or
 python ./src/average_degree.py ./tweet_input/tweets.txt ./tweet_output/ft2.txt
 
