@@ -5,6 +5,7 @@ For this coding challenge, you will develop tools that could help analyze the co
 
 ## Requirements
 For feature 2, package networkx is needed, install it with:
+
 sudo pip install networkx
 
 ## Run program
